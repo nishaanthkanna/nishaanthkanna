@@ -1,14 +1,8 @@
-<!-- - 👋 Hi, I’m @nishaanthkanna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-
-<!---
-nishaanthkanna/nishaanthkanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ### Hi there 👋
 
-![Nishaanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishaanthkanna&show_icons=true&theme=radical&hide=prs,issues,contribs)
+### Apps
+| [VirtualMarket](https://github.com/nishaanthkanna/VirtualMarket) | A Native Swift iOS App, that simulates stock trading by retreiving real time stock quotes, news and other stock information from several different REST APIs.  |
+| [Learning App](https://github.com/nishaanthkanna/Learning-App) | A Native Java Android App, that helps students with learning disabilies learn language pronunciation via a gamified interface with a TF Lite ML model to help them learn.  |
+| [parkXes](https://github.com/nishaanthkanna/parkXes) | A Web App, to simulate booking a parking slot online.  |
+| [ProjectMarshmallow](https://github.com/nishaanthkanna/ProjectMarshmallow) | A Django based Web App, That does Sentiment analysis on tweets about a product. Allows user login and saving their analysis session.  |
